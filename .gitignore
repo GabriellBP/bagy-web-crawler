@@ -1,0 +1,4 @@
+venv/
+.idea
+collected_data/
+debug.log
