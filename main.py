@@ -11,7 +11,7 @@ from selenium.webdriver.common.by import By
 
 
 # you can set the chromedriver path on the system path and remove this variable
-CHROME_DRIVER_PATH = 'utils/chromedriver_86.exe'  # version 86.0.4240.22
+CHROME_DRIVER_PATH = 'utils/chromedriver_87.exe'  # version 87.0.4280.88
 
 
 def main():
